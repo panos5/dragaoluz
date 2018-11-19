@@ -30,16 +30,3 @@
 		}
 	}
 }
-
-
-// DON'T NEED THESE BUT HAVE IT THERE FOR THE FOOTER TO DISPLAY TEMPORARILY
-body {
-	background: #eee;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	height: 150vh;
-	.socialLight {
-		margin-bottom: 30px;
-	}
-}
