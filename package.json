@@ -6,8 +6,10 @@
         "jquery": "^3.3.1",
         "node-sass": "^4.9.3",
         "popper.js": "^1.14.4",
+        "bootstrap-scss": "4.1.3",
         "sass-loader": "^7.1.0",
-        "webpack-notifier": "^1.6.0"
+        "webpack-notifier": "^1.6.0",
+        "slick-carousel": "^1.8.1"
     },
     "license": "UNLICENSED",
     "private": true,
@@ -18,6 +20,11 @@
         "build": "encore production"
     },
     "dependencies": {
-        "bootstrap-scss": "4.1.3"
+        "bootstrap": "3",
+        "font-awesome": "4",
+        "jquery": "^3.3.1",
+        "popper.js": "^1.14.4",
+        "bootstrap-scss": "4.1.3",
+        "slick-carousel": "^1.8.1"
     }
 }
